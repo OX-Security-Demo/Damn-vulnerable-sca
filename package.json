@@ -20,6 +20,7 @@
     "trim-newlines": "4.0.0"
   },
   "devDependencies": {
-    "nodemon": "^3.1.0"
+    "nodemon": "^3.1.0",
+    "nx": "^21.6.11"
   }
 }
